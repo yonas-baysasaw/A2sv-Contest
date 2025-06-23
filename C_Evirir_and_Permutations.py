@@ -36,4 +36,3 @@ for _ in range(num_test_cases):
         print("YES")
     else:
         print("NO")
-
